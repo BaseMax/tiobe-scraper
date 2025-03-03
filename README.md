@@ -65,6 +65,10 @@ Example output:
 
 This project is licensed under the **MIT License**. See the [LICENSE](./LICENSE) file for details.
 
+## Idea
+
+The idea of this scraper comes from thecompez/tiobe-scraper project.
+
 ## Author
 
 **Max Base** (c) 2025
