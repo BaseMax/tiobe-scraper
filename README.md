@@ -32,6 +32,8 @@ bun install
 Run the scraper with:
 
 ```sh
+bun run start
+or
 bun run scraper.ts
 ```
 
