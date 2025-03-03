@@ -1,0 +1,122 @@
+[
+  {
+    "rank": 1,
+    "name": "Python",
+    "percentage": 23.88,
+    "change": "+8.72%"
+  },
+  {
+    "rank": 2,
+    "name": "C++",
+    "percentage": 11.37,
+    "change": "+0.84%"
+  },
+  {
+    "rank": 3,
+    "name": "Java",
+    "percentage": 10.66,
+    "change": "+1.79%"
+  },
+  {
+    "rank": 4,
+    "name": "C",
+    "percentage": 9.84,
+    "change": "-1.14%"
+  },
+  {
+    "rank": 5,
+    "name": "C#",
+    "percentage": 4.12,
+    "change": "-3.41%"
+  },
+  {
+    "rank": 6,
+    "name": "JavaScript",
+    "percentage": 3.78,
+    "change": "+0.61%"
+  },
+  {
+    "rank": 7,
+    "name": "SQL",
+    "percentage": 2.87,
+    "change": "+1.04%"
+  },
+  {
+    "rank": 8,
+    "name": "Go",
+    "percentage": 2.26,
+    "change": "+0.53%"
+  },
+  {
+    "rank": 9,
+    "name": "Delphi/Object Pascal",
+    "percentage": 2.18,
+    "change": "+0.78%"
+  },
+  {
+    "rank": 10,
+    "name": "Visual Basic",
+    "percentage": 2.04,
+    "change": "+0.52%"
+  },
+  {
+    "rank": 11,
+    "name": "Fortran",
+    "percentage": 1.75,
+    "change": "+0.35%"
+  },
+  {
+    "rank": 12,
+    "name": "Scratch",
+    "percentage": 1.54,
+    "change": "+0.36%"
+  },
+  {
+    "rank": 13,
+    "name": "Rust",
+    "percentage": 1.47,
+    "change": "+0.42%"
+  },
+  {
+    "rank": 14,
+    "name": "PHP",
+    "percentage": 1.14,
+    "change": "-0.37%"
+  },
+  {
+    "rank": 15,
+    "name": "R",
+    "percentage": 1.06,
+    "change": "+0.07%"
+  },
+  {
+    "rank": 16,
+    "name": "MATLAB",
+    "percentage": 0.98,
+    "change": "-0.28%"
+  },
+  {
+    "rank": 17,
+    "name": "Assembly language",
+    "percentage": 0.95,
+    "change": "-0.24%"
+  },
+  {
+    "rank": 18,
+    "name": "COBOL",
+    "percentage": 0.82,
+    "change": "-0.18%"
+  },
+  {
+    "rank": 19,
+    "name": "Ruby",
+    "percentage": 0.82,
+    "change": "-0.17%"
+  },
+  {
+    "rank": 20,
+    "name": "Prolog",
+    "percentage": 0.8,
+    "change": "+0.03%"
+  }
+]
